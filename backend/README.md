@@ -10,7 +10,7 @@ Every API key lives here, never in the APK.
 curl -fsSL https://get.docker.com | sh
 
 # 2. Get the code
-git clone https://github.com/wuchunkei/Airadar_demo.git airadar
+git clone https://github.com/wuchunkei/Airadar.git airadar
 cd airadar/backend
 
 # 3. Secrets — AIRLABS_API_KEY, APP_TOKEN, GOOGLE_CLIENT_ID (the Web client), JWT_SECRET
